@@ -1,1 +1,2 @@
-# goit-js-hw-11-color-switch
+# sunday_practice
+Tasks from sunday practice
